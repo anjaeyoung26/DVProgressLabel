@@ -1,0 +1,6 @@
+framework module DVProgressLabel {
+  umbrella header "DVProgressLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

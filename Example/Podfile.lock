@@ -1,0 +1,16 @@
+PODS:
+  - DVProgressLabel (0.1.0)
+
+DEPENDENCIES:
+  - DVProgressLabel (from `../`)
+
+EXTERNAL SOURCES:
+  DVProgressLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DVProgressLabel: 337108ba52ecabc2cf3bd72ef30a2110081b251e
+
+PODFILE CHECKSUM: d36975ec87c437fc64570b02ba8edfbb89bbf8cf
+
+COCOAPODS: 1.11.2

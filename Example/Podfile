@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'DVProgressLabel_Example' do
+  pod 'DVProgressLabel', :path => '../'
+
+  target 'DVProgressLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
