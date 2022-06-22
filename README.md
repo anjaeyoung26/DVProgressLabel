@@ -33,7 +33,7 @@ import PackageDescription
 let package = Package(
   name: "MyApp",
   dependencies: [
-    .package(url: "https://github.com/anjaeyoung26/DVProgressLabel.git", from: "0.2.0")
+    .package(url: "https://github.com/anjaeyoung26/DVProgressLabel.git", from: "0.2.1")
   ]
 )
 ```
