@@ -19,11 +19,23 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-DVProgressLabel is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+### CocoaPods
 
 ```ruby
 pod 'DVProgressLabel'
+```
+
+### Swift Package Manager
+
+```swift
+import PackageDescription
+
+let package = Package(
+  name: "MyApp",
+  dependencies: [
+    .package(url: "https://github.com/anjaeyoung26/DVProgressLabel.git", from: "0.2.0")
+  ]
+)
 ```
 
 ## Usage
