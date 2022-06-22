@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "DVProgressLabel",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v10)
     ],
     products: [
         .library(name: "DVProgressLabel",
