@@ -1,21 +1,11 @@
 # DVProgressLabel
 
-[![Version](https://img.shields.io/cocoapods/v/DVProgressLabel.svg?style=flat)](https://cocoapods.org/pods/DVProgressLabel)
 [![License](https://img.shields.io/cocoapods/l/DVProgressLabel.svg?style=flat)](https://cocoapods.org/pods/DVProgressLabel)
 [![Platform](https://img.shields.io/cocoapods/p/DVProgressLabel.svg?style=flat)](https://cocoapods.org/pods/DVProgressLabel)
 
 ## Preview
 
 ![ProgressMaskLabel](https://user-images.githubusercontent.com/61190690/142808765-a8a91b54-5992-48b4-a47e-b22257ceadf2.gif)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
-
-- iOS 10.0+
-- Swift 5
 
 ## Installation
 
@@ -78,10 +68,6 @@ You can set fill color with `maskStokeColor` property when the label is being ma
 ```swift
 progressMaskLabel.maskColor = .white
 ```
-
-## Author
-
-anjaeyoung26, dkswodud011@naver.com
 
 ## License
 
